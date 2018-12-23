@@ -1,6 +1,6 @@
 # PHP
 
-The PHP files I used to learn
+The PHP files I used to learn it
 
 `1 Variables ...................... 🐘 variables.php`  
 `2 Arrays ......................... 🐘 arrays.php`  
@@ -8,4 +8,5 @@ The PHP files I used to learn
 `4 Conditionals ................... 🐘 conditionals.php`  
 `5 Dates .......................... 🐘 dates.php`  
 `6 Include and Require ............ 📁 website1`  
-`7 Superglobals ($_SERVER) ........ 📁 website2`
+`7 Superglobals ($_SERVER) ........ 📁 website2`  
+`8 Get & Post ..................... 🐘 get_post.php`
