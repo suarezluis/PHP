@@ -11,4 +11,5 @@ The PHP files I used to learn it
 `07 Superglobals ($_SERVER) ........ 📁 website2`  
 `08 Get & Post ..................... 🐘 get_post.php`  
 `09 String Functions ............... 🐘 string_funtions.php`  
-`10 Shorthands ..................... 🐘 shorthands.php`
+`10 Shorthands ..................... 🐘 shorthands.php`  
+`11 Filters/Validation ............. 🐘 filters.php`
