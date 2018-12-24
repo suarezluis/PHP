@@ -9,4 +9,5 @@ The PHP files I used to learn it
 `5 Dates .......................... 🐘 dates.php`  
 `6 Include and Require ............ 📁 website1`  
 `7 Superglobals ($_SERVER) ........ 📁 website2`  
-`8 Get & Post ..................... 🐘 get_post.php`
+`8 Get & Post ..................... 🐘 get_post.php`  
+`9 String Functions ............... 🐘 string_funtions.php`
